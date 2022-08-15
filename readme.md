@@ -10,7 +10,6 @@ Fork of official Helm charts for Datadog products.
 You need to add this repository to your Helm repositories:
 
 ```
-helm repo add datadog 
+helm repo add datadog https://brightlysoftware.github.io/datadog-operator 
 helm repo update
 ```
-# datadog-operator
